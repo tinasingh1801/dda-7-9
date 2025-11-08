@@ -1,0 +1,5 @@
+EDA can mean either Exploratory Data Analysis or Electronic Design Automation. 
+Exploratory Data Analysis is an approach used in data science to understand and summarize the main
+characteristics of a dataset through visualization  and other statistical methods, while Electronic Design
+Automation is a category of software tools used for designing electronic systems like integrated circuits.
+The correct meaning depends on the context. 
