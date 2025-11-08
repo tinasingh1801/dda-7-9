@@ -1,0 +1,6 @@
+What is data transformation modifying a format or values of the data
+make it compatible with a target system or to improve its quality.
+ This is a key step in data workflows like ETL (Extract, Transform, Load) 
+ and data integration 
+cleaning, formatting, filtering
+
