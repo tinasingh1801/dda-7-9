@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+### data collection
+
+** data collection **
+
+* data collection *
+
+### sources
+1. data scrapping
+2. client provided
+3. purchase data
+
+
+### tools
+- web scrapper
+- octoparse
+- website
+-dark web
+
+### py code loading data (code)
+''' df = pd.read("file path") '''
+
+### link 
+link = [youtube] (http://www.youtube.com)
+=======
 Data collection is the systematic process of gathering raw information from primary and secondary sources for analysis.
 Good data collection uses well-defined protocols and sampling methods to ensure accuracy and reduce bias.
 Recording metadata and maintaining consistent formats make the data easier to clean, merge, and reproduce.
@@ -6,3 +31,4 @@ High-quality collection lays the foundation for reliable exploratory analysis, m
 
 
 this is my new branchs
+>>>>>>> 32b870289850e6534d562319e14e84440fceb2cb
