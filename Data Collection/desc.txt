@@ -3,3 +3,6 @@ Good data collection uses well-defined protocols and sampling methods to ensure 
 Recording metadata and maintaining consistent formats make the data easier to clean, merge, and reproduce.
 Ethical considerations, including consent and privacy, must guide collection when personal or sensitive data are involved.
 High-quality collection lays the foundation for reliable exploratory analysis, modeling, and data-driven decision making.
+
+
+this is my new branchs
