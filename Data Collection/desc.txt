@@ -1,0 +1,23 @@
+### data collection
+
+** data collection **
+
+* data collection *
+
+### sources
+1. data scrapping
+2. client provided
+3. purchase data
+
+
+### tools
+- web scrapper
+- octoparse
+- website
+-dark web
+
+### py code loading data (code)
+''' df = pd.read("file path") '''
+
+### link 
+link = [youtube] (http://www.youtube.com)
